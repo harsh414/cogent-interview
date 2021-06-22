@@ -16,7 +16,7 @@
                     Rs.{{$product->mrp}}
                 </div>
                 <div class="text-xl font-extrabold" style="color: #1D446E">
-                    Rs.{{$product->mrp}}
+                    Rs.{{$product->price}}
                 </div>
             </div>
         @endforeach
